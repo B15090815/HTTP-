@@ -3,7 +3,7 @@
  * @version: 
  * @Author: ErCHen
  * @Date: 2020-04-02 21:23:59
- * @LastEditTime: 2020-04-10 20:51:58
+ * @LastEditTime: 2020-04-10 21:13:18
  -->
 
 # CH-1 HTTP概述
@@ -16,7 +16,7 @@
 
 - URI，统一资源定位符，在世界范围内**唯一标识并定位信息资源**。URI有两种形式：URL和URN。
 
-  **URL：**统一资源定位符。包含三个部分：方案（scheme）、服务器互联网地址、资源位置。**指明了资源的所在位置和名称。**如，https://www.baidu.com/index.html
+  **URL**：统一资源定位符。包含三个部分：方案（scheme）、服务器互联网地址、资源位置。**指明了资源的所在位置和名称**。如，https://www.baidu.com/index.html
 
   **URN：**统一资源名。作为资源的唯一名称，于所在地无关。
 
